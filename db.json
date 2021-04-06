@@ -1,0 +1,64 @@
+{
+  "gamers": [
+    {
+      "id": "01",
+      "title": "Score = 100",
+      "author": "Allen B. Downey "
+    },
+    {
+      "id": "02",
+      "title": "Score = 80",
+      "author": "Jon Bentley"
+    },
+    {
+      "id": "03",
+      "title": "Score = 70",
+      "author": "Brian W. Kernighan and Phillip J. Plauger"
+    },
+    {
+      "id": "04",
+      "title": "Score = 60",
+      "author": "Alexander K. Dewdney"
+    },
+    {
+      "id": "05",
+      "title": "Score = 50",
+      "author": "Allen B. Downey 1"
+    },
+    {
+      "id": "06",
+      "title": "Score = 40",
+      "author": "Jon Bentley1"
+    },
+    {
+      "id": "07",
+      "title": "Score = 30",
+      "author": "Brian W. Kernighan and Phillip J. Plauger1"
+    },
+    {
+      "id": "08",
+      "title": "Score = 20",
+      "author": "Alexander K. Dewdney1"
+    },
+    {
+      "id": "09",
+      "title": "Score = 10",
+      "author": "Allen B. Downey 2"
+    },
+    {
+      "id": "10",
+      "title": "Score = 80",
+      "author": "Jon Bentley2"
+    },
+    {
+      "id": "11",
+      "title": "Score = 70",
+      "author": "Brian W. Kernighan and Phillip J. Plauger2"
+    },
+    {
+      "id": "12",
+      "title": "Score = 60",
+      "author": "Alexander K. Dewdney2"
+    }
+  ]
+}
